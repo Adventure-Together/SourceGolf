@@ -1,6 +1,16 @@
 # Source Golf!
 
-Golf! GOLF !  GOLF!!!!
+SOURCE GOLF!!!!
+
+Source Golf is a golf simulation dice roller party game where players can build custom courses and play golf.  
+Players will take turns choosing a club and hitting a golf ball towards the hole. 
+Source Golf is a scaleable game. In terms of player counts, rounds played, and the size of the course, its all up to you. 
+
+The SOURCE system’s hexes and tiles were purpose-built to allow for in-game terrain modularity, with the unique biome artwork directly impacting gameplay.
+
+![minis](./img/source_ts_banner.png)
+
+Check out the many games built for the Source System including [TimeStrike](https://github.com/Adventure-Together/TimeStrike)!
 
 ## Contributing
 [![discord](./img/discord.png)](https://discord.gg/adventuretogether)
